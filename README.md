@@ -1,3 +1,5 @@
+I made this repo to support my question posted here: https://discuss.codemirror.net/t/local-language-package-not-working-with-rollup-dedupe/4252
+
 in `lang-example/`
 ```
 npm i rollup-plugin-ts
