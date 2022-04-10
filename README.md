@@ -7,7 +7,7 @@ rollup -c
 in `editor/`
 ```
 npm install --save ../lang-example
-npm i rollup-plugin-ts
+npm i @rollup/plugin-node-resolve rollup-plugin-ts
 rollup -c
 ```
 
